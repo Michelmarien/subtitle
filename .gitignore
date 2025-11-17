@@ -1,0 +1,60 @@
+# Environnement virtuel (local)
+Michou/
+venv/
+.venv/
+env/
+ENV/
+
+# Python caches et fichiers compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Caches d'outils de test/typage
+.pytest_cache/
+.mypy_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / éditeurs
+.vscode/
+*.swp
+*.swo
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.bak
+
+# Bases locales
+*.db
+*.sqlite3
+
+# Dossiers de données/outputs lourds à ignorer
+audio/
+downloads/
+videos_created/
+videos/
+transcription/
+analysis/
+
+# Secrets / variables d'environnement local
+.env
+secrets.json
+credentials.json
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+

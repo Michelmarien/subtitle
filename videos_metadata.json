@@ -1,0 +1,56 @@
+[
+  {
+    "video_path": "videos_created\\20250819_031842_THERES_ALWAYS_A_WAY_-_Motivational_Speech.mp4",
+    "creation_date": "2025-08-19T03:22:40.326092",
+    "audio_source": "audio/THERE'S ALWAYS A WAY - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 27.6,
+    "file_size_mb": 9.21
+  },
+  {
+    "video_path": "videos_created\\20250904_225609_THERES_ALWAYS_A_WAY_-_Motivational_Speech.mp4",
+    "creation_date": "2025-09-04T22:59:48.936847",
+    "audio_source": "audio/THERE'S ALWAYS A WAY - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 27.6,
+    "file_size_mb": 9.21
+  },
+  {
+    "video_path": "videos_created\\20250904_231311_DONT_QUIT_ON_YOUR_DREAM_-_Motivational_Speech.mp4",
+    "creation_date": "2025-09-04T23:16:50.278012",
+    "audio_source": "audio/DON'T QUIT ON YOUR DREAM - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 26.64,
+    "file_size_mb": 9.19
+  },
+  {
+    "video_path": "videos_created\\20250905_002221_DONT_QUIT_ON_YOUR_DREAM_-_Motivational_Speech.mp4",
+    "creation_date": "2025-09-05T00:26:15.559959",
+    "audio_source": "audio/DON'T QUIT ON YOUR DREAM - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 26.64,
+    "file_size_mb": 9.19
+  },
+  {
+    "video_path": "videos_created\\20251117_000349_DONT_QUIT_ON_YOUR_DREAM_-_Motivational_Speech.mp4",
+    "creation_date": "2025-11-17T00:07:46.279804",
+    "audio_source": "audio/DON'T QUIT ON YOUR DREAM - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 26.64,
+    "file_size_mb": 9.19
+  },
+  {
+    "video_path": "videos_created\\20251117_120058_DON'T_QUIT_ON_YOUR_DREAM_-_Motivational_Speech.mp4",
+    "creation_date": "2025-11-17T12:04:20.519294",
+    "audio_source": "audio/DON'T QUIT ON YOUR DREAM - Motivational Speech.mp3",
+    "background_video": "montage_final.mp4",
+    "detected_language": "en",
+    "duration_seconds": 26.64,
+    "file_size_mb": 6.03
+  }
+]
